@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/speakers/[id]": "pages/api/speakers/[id].js",
+  "/api/speakers": "pages/api/speakers.js",
+  "/bootstrap": "pages/bootstrap.html",
+  "/emailvalidating": "pages/emailvalidating.html",
+  "/": "pages/index.html",
+  "/speakers": "pages/speakers.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
